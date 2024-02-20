@@ -1,0 +1,1 @@
+Write a script to check disk memory, if memory exceeds more than 90% it should send a notification saying that "disk is full, Please take appropriate action."
